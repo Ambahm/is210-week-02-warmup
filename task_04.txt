@@ -1,0 +1,4 @@
+#!usr/bin/env python
+# -*- coding: utf-8 -*-
+
+print 'Task 04: Crating a file to remove it, to compete task 04'
