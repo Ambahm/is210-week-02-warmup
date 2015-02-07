@@ -5,5 +5,6 @@
 
 print 'Hello World!'
 print ' Added Encoding statement'
-print 'Double check'
+print 'Double checking
+'
 
