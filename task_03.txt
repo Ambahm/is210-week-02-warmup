@@ -1,0 +1,7 @@
+#!usr/bin/env python
+# -*- coding: utf-8 -*-
+
+print 'Task 3: Rename a file  a file :'\
+      'To do so  (Step1)creating file to resolve merge issue.'\
+      ' Creating new and (Step2)removing prviously renamed file'\
+      'Renaming new one'
