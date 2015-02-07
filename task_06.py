@@ -4,5 +4,6 @@
 """A simple Python file."""
 
 print 'Hello World!'
-print " Adding Encoding statement"
+print ' Added Encoding statement'
+print 'Double check'
 
