@@ -2,3 +2,4 @@
 """A simple Python file."""
 
 print 'Hello World!'
+print 'Interpreter directive'
