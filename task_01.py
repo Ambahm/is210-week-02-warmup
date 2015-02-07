@@ -2,5 +2,4 @@
 # -*- coding: utf-8 -*-
 
 print "Warm up task_01 : Wk 2"
-print" Tak01 file created , changing file name"
-
+print "deleted previous fie to create a new one"
